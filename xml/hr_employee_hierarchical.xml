@@ -1,0 +1,24 @@
+<company xmlns="http://www.company.com/employees">
+  <employees>
+    <employee id="102">
+      <personal_data>
+        <first_name>Lex</first_name>
+        <last_name>De Haan</last_name>
+        <email>LDEHAAN</email>
+        <phone_number>515.123.4569</phone_number>
+        <hire_date>2001-01-13</hire_date>
+      </personal_data>
+      <job>
+        <job_title>Administration Vice President</job_title>
+        <salary>17000</salary>
+        <department id="90">
+          <department_name>Executive</department_name>
+          <location>
+            <city>Seattle</city>
+            <country_id>US</country_id>
+          </location>
+        </department>
+      </job>
+    </employee>
+  </employees>
+</company>

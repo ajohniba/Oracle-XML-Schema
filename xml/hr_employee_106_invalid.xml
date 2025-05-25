@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<company xmlns="http://www.company.com/employees">
+  <employees>
+    <employee id="106">
+      <personal_data>
+        <first_name>Alice</first_name>
+        <last_name>Smith</last_name>
+        <email>asmith@example.com</email>
+        <phone_number>123.456.7890</phone_number>
+        <!-- Missing <hire_date> -->
+      </personal_data>
+      <!-- Missing <job> block entirely -->
+    </employee>
+  </employees>
+</company>
