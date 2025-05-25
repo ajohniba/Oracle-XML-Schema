@@ -1,0 +1,12 @@
+📦 oracle-xml-hrx-demo/
+├── README.md
+├── LICENSE
+├── .gitignore
+├── sql/
+│   └── [All .sql scripts: 00_CREATE_USER_HRX.sql to 11_XMLSQL_HR_EMPLOYEE_XML.sql]
+├── xml/
+│   └── [hr_employee_hierarchical.xsd, sample XML files]
+├── docs/
+│   └── [Design notes, architecture diagrams, references]
+├── logs/
+│   └── [DBMS_OUTPUT logs, error captures]
